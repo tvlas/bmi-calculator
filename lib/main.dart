@@ -6,7 +6,7 @@ main () {
   runApp(const BMICalculatorApp());
 
 }
-
+// This is the core of the aplication
 class BMICalculatorApp extends StatelessWidget {
   const BMICalculatorApp({ Key? key }) : super(key: key);
 
