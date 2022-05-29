@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 
 //Primary color
-const kprimarycolor = Color(0xFF022C43);
+const kprimarycolor = Color(0xFF111328);
 
 //card color
-const kActiveColor = Color(0xFF115173);
-const kInactiveColor = Color(0xFF053F5E);
+const kActiveColor = Color(0xffeb1555);
+const kInactiveColor = Color(0xFF111328);
 
-const kButtonColor = Color(0xFF00A8CC);
-const kBottomContainerColor = Color(0xFF00A8CC);
+const kButtonColor = Color(0xffeb1555);
+const kBottomContainerColor = Color(0xFFEB1555);
 
 //Container Size
 const kBottomContainerHeight = 80.0;
